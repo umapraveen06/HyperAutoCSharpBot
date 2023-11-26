@@ -1,0 +1,28 @@
+﻿{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://www.metlife.co.jp/content/dam/metlifecom/jp/csa/meetslife/common/metlifelogo/metlifelogo_japan.png",
+      "size": "stretch"
+    },
+    {
+      "type": "Image",
+      "url": "https://orbograph.com/wp-content/uploads/2022/12/Hyperautomation-scaled.jpg",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "size": "large",
+      "color":"dark",
+      "isSubtle": true,
+      "weight": "bolder",
+      "horizontalAlignment":"center",
+      "text": "**Unearth MLJ Test Automation status!!!**",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+}
